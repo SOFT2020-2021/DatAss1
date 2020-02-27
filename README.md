@@ -20,3 +20,9 @@ Additionally to the requirements for this system, we also had to implement funct
 - Names of graduates, who completed a specific course.
 - Most popular courses and their current availability.
 - Occupation of instruction at any given period.
+
+
+## How to create the database with our data
+- Create a db called "school"   *VERY IMPORTANT*
+- Copy paste the data from createDB.sql
+- Copy paste the data from populateDB.sql
