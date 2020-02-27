@@ -23,6 +23,7 @@ Additionally to the requirements for this system, we also had to implement funct
 
 
 ## How to create the database with our data
-- Create a db called "school"   *VERY IMPORTANT*
-- Copy paste the data from createDB.sql
-- Copy paste the data from populateDB.sql
+- Create a db called "school" 
+- Copy paste the data from CreateDB.sql into a query and run it
+- Copy paste the data from populateDB.sql into a query and run it
+- Copy paste the data from Triggers-Functions-procedures.txt into a query and run it
